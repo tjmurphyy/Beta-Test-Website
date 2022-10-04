@@ -1,7 +1,7 @@
 import * as THREE from "three";
 
 import Sizes from "./Utils/Sizes";
-import Time from "./Utils/time";
+import Time from "./Utils/Time";
 import assets from "./Utils/assets";
 import Resources from "./Utils/Resources";
 import Debugger from "./Utils/Debugger";
